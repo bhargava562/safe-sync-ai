@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { ArrowLeft, ArrowRight, StairsIcon, DoorOpen, X, Wifi, WifiOff } from "lucide-react";
+import { ArrowRight, DoorOpen, X, WifiOff } from "lucide-react";
 import { motion } from "framer-motion";
 import MobileFrame from "@/components/MobileFrame";
 
